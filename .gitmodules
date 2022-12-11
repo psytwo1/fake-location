@@ -1,0 +1,6 @@
+[submodule "fake-location-app"]
+	path = fake-location-app
+	url = https://github.com/psytwo1/fake-location-app.git
+[submodule "fake-runner"]
+	path = fake-runner
+	url = https://github.com/psytwo1/fake-runner.git
